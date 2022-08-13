@@ -1,0 +1,33 @@
+1-Déjà des connaissances en HTML et CSS via Wordpress
+
+2-Débuter par HTML / renforcement des connaissances
+
+    Head ?
+        -> Meta CHARSET
+        -> DOCTYPE html
+        -> Google Font
+        -> Font-awesome
+
+    Body
+        -> problème avec images
+    
+3-normalize.css ?
+
+4-Puis le css / renforcement des connaissances
+
+5-flexbox ?
+
+6-blocage dernières 'cards' "Activités à Marseille"
+    -> aide commu 
+    -> flexwrap + * {
+                    box-sizing: border-box;
+                    }
+    -> pixel vs %  
+    -contenant (container) vs contenu (images, texte)
+
+7-css version mobile et media queries
+
+8-css perfectible
+
+9-Inspecteur sur navigateur, W3C, VS Code, LiveServer, github
+

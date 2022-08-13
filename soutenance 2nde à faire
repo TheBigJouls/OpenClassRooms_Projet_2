@@ -1,0 +1,33 @@
+Compétences évaluées
+
+1. Implémenter une interface responsive ✅
+
+Commentaires :
+
+✅ Les blocs ne perdent de la proportions lorqu'on redimensionne l'écran desktop
+
+✅ la version tablette n'existe pas
+
+✅ la version mobile n'est rendue que lorsqu'on est sur firefox
+
+✅ sur firefox la version mobile est disponible et respecte la maquette. Seulement, les filtres doivent être redimensionnés.
+
+2. Intégrer du contenu conformément à une maquette ✅
+
+✅ le logo est très grand par rapport à celui de la maquette
+
+✅  respecter les marges globales de gauche et droite pour chacun des blocs
+
+Livrable
+
+Points forts : Le code est commenté, les flex-box sont bien utilisées, les balises sémantiques sont bien utilisées.
+
+Axes d'amélioration :
+
+✅ tout le css doit être contenu dans le dossier /css
+
+❌ La présentation doit tenir compte du temps imparti.
+
+Soutenance
+
+Remarques : La soutenance a démarré à 17h09 (Heure Française). La présentation a été très brève. L'étudiant a appris énormement au travers de ce projet. Mais beaucoup de points à corriger demeurent, notamment concernant le respect du cahier des chargesMonsieur . Je propose donc à Julien Campet de retravailler ce projet et de repasser en soutenance en temps opportun.
